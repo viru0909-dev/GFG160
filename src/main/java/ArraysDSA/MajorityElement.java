@@ -67,6 +67,7 @@ public class MajorityElement {
         List <Integer> res = FindMajority(arr);
         for(int ele : res){
             System.out.print(ele+" ");
+
         }
     }
 }
